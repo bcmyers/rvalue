@@ -1,0 +1,8 @@
+[package]
+name = "pyvalue"
+version = "0.1.0"
+authors = ["Brian Myers <brian.myers@post.harvard.edu>"]
+
+[dependencies]
+calamine = "*"
+hyper = "*"
