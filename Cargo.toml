@@ -5,4 +5,5 @@ authors = ["Brian Myers <brian.carl.myers@gmail.com>"]
 
 [dependencies]
 calamine = "*"
+clippy = "*"
 hyper = "*"
