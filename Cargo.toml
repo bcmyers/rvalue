@@ -2,6 +2,7 @@
 name = "rvalue"
 version = "0.1.0"
 authors = ["Brian Myers <brian.carl.myers@gmail.com>"]
+license = "MIT"
 
 [dependencies]
 calamine = "*"
